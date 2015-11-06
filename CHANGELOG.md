@@ -1,22 +1,26 @@
 Changelog
 =========
 
-## Version [0.5.0](https://github.com/Larnixva/jall/releases/tag/v0.5.0)
+## Version [0.5.0](https://github.com/ToddShepard/jall/releases/tag/v0.5.0)
 - **Added**
-  - _xjall:_ Added original translation string to "MISSING TRANSLATION", like wished in issue [#4](https://github.com/Larnixva/jall/issues/4)
-  - _library:_ Added way to specify path of string.txts, like wished in issue [#3](https://github.com/Larnixva/jall/issues/3)
+  - _xjall:_ Added original translation string to "MISSING TRANSLATION", like wished in issue [#4](https://github.com/ToddShepard/jall/issues/4)
+  - _library:_ Added way to specify path of string.txts, like wished in issue [#3](https://github.com/ToddShepard/jall/issues/3)
 - **Changed**
-  - _Tests:_ Adapted tests to suit issue [#4](https://github.com/Larnixva/jall/issues/4)
-  - _Tests:_ Adapted tests to suit issue [#3](https://github.com/Larnixva/jall/issues/3)
+  - _Tests:_ Adapted tests to suit issue [#4](https://github.com/ToddShepard/jall/issues/4)
+  - _Tests:_ Adapted tests to suit issue [#3](https://github.com/ToddShepard/jall/issues/3)
+  - _library:_ Translations for the default language are now loaded automaticly [#5](https://github.com/ToddShepard/jall/issues/5)
+  - _library:_ Dealing better with non-translated strings [#6](https://github.com/ToddShepard/jall/issues/6)
+  - _Package:_ Fixed links
+  - _Package:_ Version bump
 
-## Version [0.4.9](https://github.com/Larnixva/jall/releases/tag/v0.4.9)
+## Version [0.4.9](https://github.com/ToddShepard/jall/releases/tag/v0.4.9)
 - **Changed**
   - _xjall:_ Create folder if it doesn't exist
   - _Package:_ Fixed links in package.json
   - _Package:_ Fixed script paths in package.json
   - _Package:_ Version bump
 
-## Version [0.4.8](https://github.com/Larnixva/jall/releases/tag/v0.4.8)
+## Version [0.4.8](https://github.com/ToddShepard/jall/releases/tag/v0.4.8)
 - **Added**
   - _xjall:_ Option (`-o, --output-path <path>`) to specify output path
   - _xjall:_ Option (`-v, --verbose`) for verbose output
@@ -37,5 +41,5 @@ Changelog
   - _Tests:_ Removed old shell tests for `xlocalize`
   - _Tests:_ Removed coverage tests
 
-## Version [0.4.7](https://github.com/Larnixva/jall/releases/tag/v0.4.7)
+## Version [0.4.7](https://github.com/ToddShepard/jall/releases/tag/v0.4.7)
 - Forked from [dfellis/node-localize](https://github.com/dfellis/node-localize)
